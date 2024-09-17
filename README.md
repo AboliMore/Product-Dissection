@@ -12,9 +12,9 @@ Process-
 
 2)search on Phonepay Platfrom
 
-3) Product Dissection and Real World Problems solved by the platform
+3)Product Dissection and Real World Problems solved by the platform
 
-4) Case Study on the real world problems and approach to solving them
+4)Case Study on the real world problems and approach to solving them
  
 5)Schema Design Based on Top Features
 
