@@ -7,13 +7,21 @@ Mission-
 Our mission at PhonePe is to simplify and enhance the way people transact, making digital payments accessible, fast, and secure for everyone. We aim to drive financial inclusion and empower users by leveraging cutting-edge technology.
 
 Process-
+
 1)Phonepay is a leading Platfrom
+
 2)search on Phonepay Platfrom
+
 3) Product Dissection and Real World Problems solved by the platform
+
 4) Case Study on the real world problems and approach to solving them
+ 
 5)Schema Design Based on Top Features
+
 6)Rationale Behind the Design
+
 7)Create an ER Diagram
+
 8)Presentation of Findings
 
 Colclusion-
